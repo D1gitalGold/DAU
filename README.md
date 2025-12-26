@@ -34,6 +34,8 @@ rewards =
   token_balance
   × drip_rate
   × time_held
+```
+
 🧱 Core Mechanics
 
 📦 SPL-token balance tracking
