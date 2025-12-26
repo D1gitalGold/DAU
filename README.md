@@ -10,6 +10,8 @@ No mercy.
 
 Just raw time-weighted emissions.
 
+
+
 🧠 What This Is
 
 GLDx Drip is a passive yield experiment that streams $GLDx to wallets holding a target SPL token.
@@ -24,6 +26,9 @@ Works with bots, scripts, or raw RPC calls
 
 If your wallet has balance → you’re accruing.
 
+
+
+
 🧪 How It Prints
 
 Rewards accrue continuously, not per block.
@@ -36,6 +41,10 @@ rewards =
 Claim whenever.
 Or don’t.
 The math doesn’t care.
+
+
+
+
 
 🧱 Core Mechanics
 
@@ -52,6 +61,10 @@ The math doesn’t care.
 No staking contracts.
 No “deposit receipt NFTs”.
 No fake complexity.
+
+
+
+
 
 🟡 Token Flow
 
